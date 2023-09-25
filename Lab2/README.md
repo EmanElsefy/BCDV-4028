@@ -16,6 +16,10 @@ So I tried a taking an account address that doesn't have any contracts deployed 
 So now it's showing False. So there is a check that's happening.
 
 #### Contract delegate calls
+![image](https://github.com/EmanElsefy/BCDV-4028/assets/113483167/2356336d-fdb9-4805-8c2b-fdab9cd5fdf5)
+![image](https://github.com/EmanElsefy/BCDV-4028/assets/113483167/7747f10b-b460-4f92-a6f1-51b39612b4a3)
+![image](https://github.com/EmanElsefy/BCDV-4028/assets/113483167/ef7af44c-1378-40fc-9cce-a39a9bc5039e)
+for some reason, I wasn't able to debug why whenever I delegate call it actually updates the address of the called contract and not the value.
 
 #### Advantages of Atomic Swaps:
    - Peer-to-peer trading
